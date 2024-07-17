@@ -12,4 +12,5 @@
 
 ⚡ Curiosidade: adoro filmes de terror.
 
-☆https://mepagaumcafe.com.br/antonio75/
+☕ Considere me pagar um café:
+https://mepagaumcafe.com.br/antonio75/
