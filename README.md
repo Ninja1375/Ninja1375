@@ -1,1 +1,7 @@
-- 👋 Olá, sou Antônio Nascimento - 👀 Estou interessado em mostrar meus conhecimentos em programação e aprender também  - 🌱 Atualmente estou aprendendo HTML, CSS e javaScript - 💞️ Procuro colaborar em projetos relacionados a programação - 📫 Como entrar em contato comigo? pelo formulário de contato no meu blog - 😄 Pronomes: aprender e ensinar programação ⚡ Curiosidade: adoro filmes de terror<!--- Antônio Nascimento é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub. Você pode clicar no link Visualizar para ver suas alterações. --->
+👋 Olá, sou Antônio Nascimento.
+👀 Estou interessado em mostrar meus conhecimentos em programação e aprender também.
+🌱 Atualmente estou aprendendo HTML, CSS e javaScript.
+💞️ Procuro colaborar em projetos relacionados a programação.
+📫 Como entrar em contato comigo? pelo formulário de contato no meu blog programartudo.blogspot.com . 
+😄 Pronomes: aprender e ensinar programação.
+⚡ Curiosidade: adoro filmes de terror.
