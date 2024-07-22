@@ -10,6 +10,9 @@
 
 😄 Pronomes: aprender e ensinar programação.
 
+Canal no Youtube:
+https://www.youtube.com/channel/UCvUtyzVxB5LcIPccivbS0pQ
+
 ⚡ Curiosidade: adoro filmes de terror.
 
 ☕ Considere me pagar um café:
