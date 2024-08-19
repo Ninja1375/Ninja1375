@@ -1,6 +1,8 @@
 👋 Olá, sou Antônio Nascimento!
 
-👀 Estou interessado em mostrar meus conhecimentos em programação e aprender também. ![octocat-1723999218978](https://github.com/user-attachments/assets/114d2965-2c5e-4146-843a-ad87801aa72d)
+👀 Estou interessado em mostrar meus conhecimentos em programação e aprender também.
+
+![octocat-1724086620589](https://github.com/user-attachments/assets/01ddd80e-2f91-4731-97d8-b4243ce8b656)
 
 💞️ Procuro colaborar em projetos relacionados a programação.
 
@@ -23,6 +25,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
 
+## Veja a Snake em Ação:
 
 ![Snake animation](https://github.com/ninja1375/ninja1375/blob/output/github-contribution-grid-snake.svg)
 
@@ -30,7 +33,3 @@
 Considere pagar-me um cafézinho!
 
 <a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://simpleicons.org/icons/buymeacoffee.svg" width="40" height="40"></a>
-
-### Veja a Snake em Ação
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Ninja1375/output/main/github-contribution-grid-snake.svg)
