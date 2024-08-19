@@ -30,3 +30,7 @@
 Considere pagar-me um cafézinho!
 
 <a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://simpleicons.org/icons/buymeacoffee.svg" width="40" height="40"></a>
+
+### Veja a Snake em Ação
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Ninja1375/output/main/github-contribution-grid-snake.svg)
