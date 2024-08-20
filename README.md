@@ -12,9 +12,7 @@
 
  ## Ferramentas e Tecnologias 
 
-<img loading="lazy" src="https://simpleicons.org/icons/html5.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/css3.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/javascript.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/python.svg" width="30" height="30"/>
-
-<img loading="lazy" src="https://simpleicons.org/icons/sqlite.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/typescript.svg" width="30" height="30"/>
+<img loading="lazy" src="https://simpleicons.org/icons/html5.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/css3.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/javascript.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/python.svg" width="30" height="30"/><img loading="lazy" src="https://simpleicons.org/icons/sqlite.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/typescript.svg" width="30" height="30"/>
 <img loading="lazy" src="https://simpleicons.org/icons/github.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/android.svg" width="30" height="30"/>
 
 ## Contatos: 
