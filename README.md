@@ -1,4 +1,5 @@
-👋 Olá, sou Antônio Nascimento!
+👋 **Olá, sou Antônio Nascimento!** <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="30" />
+
 
 👀 Estou interessado em mostrar meus conhecimentos em programação e aprender também.
 
