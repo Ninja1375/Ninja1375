@@ -13,9 +13,9 @@
 
  ## Ferramentas e Tecnologias 
 
-<img loading="lazy" src="https://simpleicons.org/icons/html5.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/css3.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/javascript.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/python.svg" width="30" height="30"/><img loading="lazy" src="https://simpleicons.org/icons/sqlite.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/typescript.svg" width="30" height="30"/>
-<img loading="lazy" src="https://simpleicons.org/icons/github.svg" width="30" height="30"/> <img loading="lazy" src="https://simpleicons.org/icons/android.svg" width="30" height="30"/>
-<img loading="lazy" src="https://simpleicons.org/icons/markdown.svg" width="30" height="30"/>
+<img loading="lazy" src="https://simpleicons.org/icons/html5.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/css3.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/javascript.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/python.svg" width="25" height="25"/><img loading="lazy" src="https://simpleicons.org/icons/sqlite.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/typescript.svg" width="25" height="25"/>
+<img loading="lazy" src="https://simpleicons.org/icons/github.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/android.svg" width="25" height="25"/>
+<img loading="lazy" src="https://simpleicons.org/icons/markdown.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/canva.svg" width="25" height="25"/>
 
 ## Contatos: 
 
@@ -34,6 +34,6 @@
 ![Snake animation](https://github.com/ninja1375/ninja1375/blob/output/github-contribution-grid-snake.svg)
 
 ## Pague-me um Café:
-Considere pagar-me um cafézinho!
+Para mais Projetos de Código Aberto Considere pagar-me um cafézinho!
 
 <a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://simpleicons.org/icons/buymeacoffee.svg" width="40" height="40"></a>
