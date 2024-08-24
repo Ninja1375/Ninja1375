@@ -29,6 +29,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![Contador de Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ninja1375/Ninja1375&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+
 ## Veja a Snake em Ação:
 
 ![Snake animation](https://github.com/ninja1375/ninja1375/blob/output/github-contribution-grid-snake.svg)
