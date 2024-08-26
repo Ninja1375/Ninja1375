@@ -28,6 +28,9 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ninja1375)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![Contador de Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ninja1375/Ninja1375&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
 
