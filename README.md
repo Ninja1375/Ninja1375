@@ -38,7 +38,5 @@
 
 ![Snake animation](https://github.com/ninja1375/ninja1375/blob/output/github-contribution-grid-snake.svg)
 
-## Pague-me um Café:
-Para mais Projetos de Código Aberto Considere pagar-me um cafézinho!
-
-<a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://simpleicons.org/icons/buymeacoffee.svg" width="40" height="40"></a>
+## Me Patrocine:
+<a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=seu_nome_de_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="100" height="100"></a>  <a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="100" height="100"></a>
