@@ -31,6 +31,8 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ninja1375)](https://github.com/ryo-ma/github-profile-trophy)
 
+<a href="https://www.github.com/Ninja1375" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Ninja1375?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ![Contador de Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ninja1375/Ninja1375&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
 
