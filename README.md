@@ -1,9 +1,6 @@
-👋 **Olá, sou Antônio Nascimento!** <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="30" />
+**Olá, sou Antônio Nascimento!** 🇧🇷
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<div align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&center=true&width=440&height=45&lines=Estou+interessado+em+mostrar...;Meus+conhecimentos+em+programação...;E+aprender+também." alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&left=true&width=440&height=45&lines=Estou+interessado+em+mostrar...;Meus+conhecimentos+em+programação...;E+aprender+também." alt="Typing SVG" /></a>
 
 ![octocat-1724086620589](https://github.com/user-attachments/assets/01ddd80e-2f91-4731-97d8-b4243ce8b656)
 
