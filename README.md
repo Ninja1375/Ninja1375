@@ -1,6 +1,5 @@
 👋 **Olá, sou Antônio Nascimento!** <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="30" />
 
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <div align=center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&center=true&width=440&height=45&lines=Estou+interessado+em+mostrar...;Meus+conhecimentos+em+programação...;E+aprender+também." alt="Typing SVG" /></a>
@@ -16,7 +15,7 @@
 
  ## Ferramentas e Tecnologias 
 
-<img loading="lazy" src="https://simpleicons.org/icons/html5.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/css3.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/javascript.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/python.svg" width="25" height="25"/><img loading="lazy" src="https://simpleicons.org/icons/sqlite.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/typescript.svg" width="25" height="25"/>
+<a href="[https://www.youtube.com/channel/UCvUtyzVxB5LcIPccivbS0pQ](https://programartudo.blogspot.com/2024/05/html-o-que-e-e-qual-sua-funcionalidade.html?m=1)" target="_blank"><img loading="lazy" src="https://simpleicons.org/icons/html5.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/css3.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/javascript.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/python.svg" width="25" height="25"/><img loading="lazy" src="https://simpleicons.org/icons/sqlite.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/typescript.svg" width="25" height="25"/>
 <img loading="lazy" src="https://simpleicons.org/icons/github.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/android.svg" width="25" height="25"/>
 <img loading="lazy" src="https://simpleicons.org/icons/markdown.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/canva.svg" width="25" height="25"/>
 
