@@ -37,7 +37,8 @@
     <img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" /></a>
 </div>
 
- 
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ninja1375)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://www.github.com/Ninja1375" target="_blank" rel="noreferrer"><img
