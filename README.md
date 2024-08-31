@@ -15,7 +15,7 @@
 
  ## Ferramentas e Tecnologias 
 
-<a href="https://programartudo.blogspot.com/2024/05/html-o-que-e-e-qual-sua-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://simpleicons.org/icons/html5.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/css3.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/javascript.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/python.svg" width="25" height="25"/><img loading="lazy" src="https://simpleicons.org/icons/sqlite.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/typescript.svg" width="25" height="25"/>
+<a href="https://programartudo.blogspot.com/2024/05/html-o-que-e-e-qual-sua-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://simpleicons.org/icons/html5.svg" width="25" height="25"/></a> <img loading="lazy" src="https://simpleicons.org/icons/css3.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/javascript.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/python.svg" width="25" height="25"/><img loading="lazy" src="https://simpleicons.org/icons/sqlite.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/typescript.svg" width="25" height="25"/>
 <img loading="lazy" src="https://simpleicons.org/icons/github.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/android.svg" width="25" height="25"/>
 <img loading="lazy" src="https://simpleicons.org/icons/markdown.svg" width="25" height="25"/> <img loading="lazy" src="https://simpleicons.org/icons/canva.svg" width="25" height="25"/>
 
