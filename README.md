@@ -26,10 +26,11 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align=center>
-  <a href="https://git.io/streak-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=radical" alt="GitHub Stats"/>
+
+
+<a href="https://git.io/streak-stats">
     <img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" /></a>
-</div>
 
 
 
