@@ -20,14 +20,12 @@
 
 ## Estatísticas:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja1375&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja1375&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Langs" width="450">
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=radical" alt="GitHub Stats"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
 
 <a href="https://git.io/streak-stats">
-    <img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" /></a>
+<img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" width="450"/></a>
 
 
 
@@ -47,11 +45,3 @@
 
 ## Apoie-me:
 <a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=seu_nome_de_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="120" height="120"></a>  <a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="120" height="120"></a>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja1375&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Langs" width="450">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
-
-<a href="https://git.io/streak-stats">
-<img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" width="450"/></a>
