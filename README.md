@@ -6,11 +6,13 @@
 
 ### Postagens Recentes do Blog:
 
+- **[Editor de Fotos Responsivo feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/editor-de-fotos-responsivo-feito-com.html?m=1)**
+
+- **[Jogo do Labirinto feito somente com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/jogo-do-labirinto-feito-somente-com.html?m=1)**
+
 - **[Gerador de Placas de Preço feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/08/gerador-de-placas-de-preco-feito-com.html?m=1)**
 
 - **[Bloco de Notas feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/08/bloco-de-notas-feito-com-html-css-e.html?m=1)**
-
-- **[Bandeira do Brasil usando apenas HTML e CSS (Tutorial)](https://programartudo.blogspot.com/2024/08/bandeira-do-brasil-usando-apenas-html-e.html?m=1)**
 
  ## Ferramentas e Tecnologias:
 
