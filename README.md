@@ -6,7 +6,7 @@
 
 ### Postagens Recentes do Blog:
 
-- **[Editor de Fotos Responsivo feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/editor-de-fotos-responsivo-feito-com.html?m=1)**
+- **[Conversor de Temperatura feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/conversor-de-temperatura-feito-com-html.html?m=1)**
 
 - **[Editor de Fotos Responsivo feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/editor-de-fotos-responsivo-feito-com.html?m=1)**
 
