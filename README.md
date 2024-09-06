@@ -8,6 +8,8 @@
 
 - **[Editor de Fotos Responsivo feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/editor-de-fotos-responsivo-feito-com.html?m=1)**
 
+- **[Editor de Fotos Responsivo feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/editor-de-fotos-responsivo-feito-com.html?m=1)**
+
 - **[Jogo do Labirinto feito somente com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/jogo-do-labirinto-feito-somente-com.html?m=1)**
 
 - **[Gerador de Placas de Preço feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/08/gerador-de-placas-de-preco-feito-com.html?m=1)**
