@@ -6,7 +6,7 @@
 
 ### Postagens Recentes do Blog:
 
-- **[Bloco de Notas feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/ui-vs-ux-entendendo-as-diferencas.html?m=1)**
+- **[UI vs UX: Entendendo as Diferenças Essenciais](https://programartudo.blogspot.com/2024/09/ui-vs-ux-entendendo-as-diferencas.html?m=1)**
 
 - **[Conversor de Temperatura feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/conversor-de-temperatura-feito-com-html.html?m=1)**
 
