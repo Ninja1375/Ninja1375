@@ -6,15 +6,15 @@
 
 ### Postagens Recentes do Blog:
 
+- **[GitHub: O que é, como funciona e como pode ajudar no seu desenvolvimento](https://programartudo.blogspot.com/2024/09/github-o-que-e-como-funciona-e-como.html?m=1)**
+
+- **[Conversor de Texto em Áudio feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/conversor-de-texto-em-audio-feito-com.html?m=1)**
+
+- **[O que é HTTP e como funciona?](https://programartudo.blogspot.com/2024/09/o-que-e-http-e-como-funciona.html?m=1)**
+
+- **[Melhore a Qualidade do Seu Código: 7 Boas Práticas Essenciais de Programação](https://programartudo.blogspot.com/2024/09/melhore-qualidade-do-seu-codigo-7-boas.html?m=1)**
+
 - **[UI vs UX: Entendendo as Diferenças Essenciais](https://programartudo.blogspot.com/2024/09/ui-vs-ux-entendendo-as-diferencas.html?m=1)**
-
-- **[Conversor de Temperatura feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/conversor-de-temperatura-feito-com-html.html?m=1)**
-
-- **[Editor de Fotos Responsivo feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/editor-de-fotos-responsivo-feito-com.html?m=1)**
-
-- **[Jogo do Labirinto feito somente com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/jogo-do-labirinto-feito-somente-com.html?m=1)**
-
-- **[Gerador de Placas de Preço feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/08/gerador-de-placas-de-preco-feito-com.html?m=1)**
 
  ## Ferramentas e Tecnologias:
 
