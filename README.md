@@ -6,6 +6,8 @@
 
 ### Postagens Recentes do Blog:
 
+- **[UI vs UX: Entendendo as Diferenças Essenciais](https://programartudo.blogspot.com/2024/09/ui-vs-ux-entendendo-as-diferencas.html?m=1)**
+
 - **[GitHub: O que é, como funciona e como pode ajudar no seu desenvolvimento](https://programartudo.blogspot.com/2024/09/github-o-que-e-como-funciona-e-como.html?m=1)**
 
 - **[Conversor de Texto em Áudio feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/conversor-de-texto-em-audio-feito-com.html?m=1)**
@@ -13,8 +15,6 @@
 - **[O que é HTTP e como funciona?](https://programartudo.blogspot.com/2024/09/o-que-e-http-e-como-funciona.html?m=1)**
 
 - **[Melhore a Qualidade do Seu Código: 7 Boas Práticas Essenciais de Programação](https://programartudo.blogspot.com/2024/09/melhore-qualidade-do-seu-codigo-7-boas.html?m=1)**
-
-- **[UI vs UX: Entendendo as Diferenças Essenciais](https://programartudo.blogspot.com/2024/09/ui-vs-ux-entendendo-as-diferencas.html?m=1)**
 
  ## Ferramentas e Tecnologias:
 
