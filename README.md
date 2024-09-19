@@ -45,9 +45,23 @@
 
 ![Contador de Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ninja1375/Ninja1375&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
 
-## Veja a Snake em Ação:
-
 ![Snake animation](https://github.com/ninja1375/ninja1375/blob/output/github-contribution-grid-snake.svg)
+```JavaScript
+const programador = {
+        nome: "Antônio Nascimento",
+        idade: 39,
+        habilidades: ["HTML", "CSS", "JavaScript", "SQL", "Python"]
+    };
+    document.getElementById('nome').textContent = programador.nome;
+    document.getElementById('idade').textContent = programador.idade;
+
+    const habilidadesList = document.getElementById('habilidades');
+    programador.habilidades.forEach(habilidade => {
+        const li = document.createElement('li');
+        li.textContent = habilidade;
+        habilidadesList.appendChild(li);
+    });
+```
 
 ## Apoie-me:
 <a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=seu_nome_de_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="120" height="120"></a>  <a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="120" height="120"></a>
