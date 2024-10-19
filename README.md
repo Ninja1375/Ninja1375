@@ -6,15 +6,15 @@
 
 ### Postagens Recentes do Blog:
 
-- **[Diferença entre VPN e Cloudflare: Qual escolher para proteger seu site?](https://programartudo.blogspot.com/2024/09/diferenca-entre-vpn-e-cloudflare-qual.html?m=1)**
+- **[Conversor PNG para WebP - HTML,  CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/10/gerador-de-curriculos-html-css-e.html?m=1)**
 
-- **[GitHub: O que é, como funciona e como pode ajudar no seu desenvolvimento](https://programartudo.blogspot.com/2024/09/github-o-que-e-como-funciona-e-como.html?m=1)**
+- **[Conversor PNG para WebP - HTML,  CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/10/conversor-png-para-webp-html-css-e.html?m=1)**
 
-- **[Conversor de Texto em Áudio feito com HTML, CSS e JavaScript (Tutorial)](https://programartudo.blogspot.com/2024/09/conversor-de-texto-em-audio-feito-com.html?m=1)**
+- **[Solidity - A Linguagem por Trás dos Contratos Inteligentes](https://programartudo.blogspot.com/2024/10/solidity-linguagem-por-tras-dos.html?m=1)**
 
-- **[O que é HTTP e como funciona?](https://programartudo.blogspot.com/2024/09/o-que-e-http-e-como-funciona.html?m=1)**
+- **[Laravel - O Guia Completo para o Framework PHP Moderno](https://programartudo.blogspot.com/2024/10/laravel-o-guia-completo-para-o.html?m=1)**
 
-- **[Melhore a Qualidade do Seu Código: 7 Boas Práticas Essenciais de Programação](https://programartudo.blogspot.com/2024/09/melhore-qualidade-do-seu-codigo-7-boas.html?m=1)**
+- **[Teste de Visão Online - HTML, CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/09/teste-de-visao-online-html-css-e.html?m=1)**
 
  ## Ferramentas e Tecnologias:
 
