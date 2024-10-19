@@ -6,7 +6,7 @@
 
 ### Postagens Recentes do Blog:
 
-- **[Conversor PNG para WebP - HTML,  CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/10/gerador-de-curriculos-html-css-e.html?m=1)**
+- **[Gerador de Currículos - HTML, CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/10/gerador-de-curriculos-html-css-e.html?m=1)**
 
 - **[Conversor PNG para WebP - HTML,  CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/10/conversor-png-para-webp-html-css-e.html?m=1)**
 
