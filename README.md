@@ -47,6 +47,10 @@
 
 ![Contador de Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ninja1375/Ninja1375&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
 
+
+[![](https://visitcount.itsvg.in/api?id=Ninja1375&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+
 ![Snake animation](https://github.com/ninja1375/ninja1375/blob/output/github-contribution-grid-snake.svg)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317wb4f5julzmbk3t7t22bc5chcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
