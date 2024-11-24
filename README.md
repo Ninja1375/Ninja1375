@@ -35,7 +35,7 @@
 <a href="https://git.io/streak-stats">
 <img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" width="800"/></a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ninja1375's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ninja1375's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" width="800"/></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ninja1375)](https://github.com/ryo-ma/github-profile-trophy)
 
