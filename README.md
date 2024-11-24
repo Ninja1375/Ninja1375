@@ -45,7 +45,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=Ninja1375&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/ninja1375/ninja1375/blob/output/github-contribution-grid-snake.svg)
+**Snake animation**
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-snake-light.svg"/>
+</div>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317wb4f5julzmbk3t7t22bc5chcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
