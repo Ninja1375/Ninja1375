@@ -28,7 +28,7 @@
 
 ## Estatísticas:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja1375&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Langs" width="450">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja1375&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Langs" width="800">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
 
