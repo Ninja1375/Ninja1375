@@ -30,12 +30,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja1375&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Langs" width="800">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
+<img src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=radical" alt="GitHub Stats" width="800">
 
 <a href="https://git.io/streak-stats">
-<img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" width="450"/></a>
+<img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" width="800"/></a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sreyan-ghosh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sreyan-ghosh&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ninja1375's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true"/></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ninja1375)](https://github.com/ryo-ma/github-profile-trophy)
 
