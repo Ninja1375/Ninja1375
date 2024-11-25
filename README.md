@@ -26,7 +26,7 @@
 
 <a href="https://www.youtube.com/channel/UCvUtyzVxB5LcIPccivbS0pQ" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50" height="40" alt="YouTube"/></a> <a href="mailto:antonioninjaa75@gmail.com"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="40" alt="Gmail"/></a> <a href="https://programartudo.blogspot.com/" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/512px-Blogger.svg.png" width="50" height="40" alt="Blogger"/></a>
 
-## Estatísticas:
+## Estatísticas e Contribuições
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja1375&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Langs" width="800">
 
@@ -39,16 +39,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ninja1375)](https://github.com/ryo-ma/github-profile-trophy)
 
+ <div align="center">
+    <img src="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-snake-light.svg"/>
+</div>
+
 <a href="https://github.com/Ninja1375?tab=followers">
     <img src="https://img.shields.io/github/followers/Ninja1375?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
 
 [![](https://visitcount.itsvg.in/api?id=Ninja1375&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-**Snake animation**
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-snake-light.svg"/>
-</div>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317wb4f5julzmbk3t7t22bc5chcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
