@@ -6,7 +6,7 @@
 
 ![octocat-1724086620589](https://github.com/user-attachments/assets/01ddd80e-2f91-4731-97d8-b4243ce8b656)
 
-### Postagens Recentes do Blog:
+# Postagens Recentes do Blog:
 
 - **[Gerador de Currículos - HTML, CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/10/gerador-de-curriculos-html-css-e.html)**
 
