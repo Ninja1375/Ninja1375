@@ -39,7 +39,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ninja1375)](https://github.com/ryo-ma/github-profile-trophy)
 
- <img src="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-snake-light.svg"/>
+ <img src="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-snake-light.svg" width="800"/>
 
 
 <a href="https://github.com/Ninja1375?tab=followers">
