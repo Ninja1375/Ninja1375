@@ -30,6 +30,6 @@ jobs:
 
       # Exemplo de passo para atualizar o README
       - name: Atualizar README
-        uses: gautamkrishnar/blog-post-workflow@v1.8.8
+        uses: gautamkrishnar/blog-post-workflow@vlatest
         with:
           example_input: ${{ github.event.inputs.example_input }}
