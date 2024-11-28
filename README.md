@@ -28,9 +28,7 @@
 
 ## Estatísticas e Contribuições
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ninja1375's Top Languages" src="https://tt-github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninja1375&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Langs" width="800">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ninja1375's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" width="800"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=radical" alt="GitHub Stats" width="800">
 
