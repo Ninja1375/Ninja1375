@@ -6,10 +6,9 @@
 
 ![octocat-1724086620589](https://github.com/user-attachments/assets/01ddd80e-2f91-4731-97d8-b4243ce8b656)
 
-# Blog Posts
-
-<!--START_SECTION:blog_posts-->
-<!--END_SECTION:blog_posts-->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Ferramentas e Tecnologias:
 
