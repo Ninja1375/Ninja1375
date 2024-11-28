@@ -1,36 +1,35 @@
 name: Atualizar README
 
+# Define os gatilhos para o fluxo de trabalho
 on:
+  # Disparar automaticamente em push para a branch principal
+  push:
+    branches:
+      - main
+
+  # Disparar automaticamente em um cronograma, por exemplo, a cada hora
   schedule:
-    - cron: "0 * * * *" # Executa a cada hora
+    - cron: '0 * * * *'  # Executa a cada hora
+
+  # Permite disparar manualmente o fluxo de trabalho
   workflow_dispatch:
+    inputs:
+      example_input:
+        description: 'Exemplo de entrada manual'
+        required: false
+        default: 'valor-padrão'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout do Repositório
-      uses: actions/checkout@v3
+      # Checkout do repositório para obter o código
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
 
-    - name: Atualizar Postagens do Blog
-      uses: gautamkrishnar/blog-post-workflow@v2
-      with:
-        feed_list: |
-          https://programartudo.blogspot.com/feeds/posts/default
-
-    - name: Atualizar README
-      run: |
-        echo "Atualizando as estatísticas"
-        curl -o README.md -X PUT \
-          "https://api.github.com/repos/${{ github.repository }}/contents/README.md" \
-          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          -d @README.md
-
-    - name: Commit das Alterações
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add .
-        git commit -m "Atualização automática do README"
-        git push
+      # Exemplo de passo para atualizar o README
+      - name: Atualizar README
+        uses: gautamkrishnar/blog-post-workflow@v1.8.8
+        with:
+          example_input: ${{ github.event.inputs.example_input }}
