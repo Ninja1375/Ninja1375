@@ -30,7 +30,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&langs_count=20&theme=dark" alt="Top Langs" width="800">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ninja1375&show_icons=true&theme=radical" alt="GitHub Stats" width="800">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninja1375&theme=dark" alt="GitHub Stats" width="800">
 
 <a href="https://git.io/streak-stats">
 <img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" width="800"/></a>
