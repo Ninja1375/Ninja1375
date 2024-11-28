@@ -8,6 +8,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como criar um README.md incrível para seu perfil no GitHub](https://programartudo.blogspot.com/2024/11/como-criar-um-readmemd-incrivel-para.html)
+- [Git, GitHub e GitLab: Diferenças Essenciais](https://programartudo.blogspot.com/2024/11/git-github-e-gitlab-diferencas.html)
+- [Vue.js: Um Guia Completo para Iniciantes e Profissionais](https://programartudo.blogspot.com/2024/11/vuejs-um-guia-completo-para-iniciantes.html)
+- [Bash: A Linguagem de Script para o Linux e MacOS](https://programartudo.blogspot.com/2024/11/bash-linguagem-de-script-para-o-linux-e.html)
+- [Plankalkül: A Primeira Linguagem de Programação de Alto Nível](https://programartudo.blogspot.com/2024/11/plankalkul-primeira-linguagem-de.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Ferramentas e Tecnologias:
