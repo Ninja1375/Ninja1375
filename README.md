@@ -8,23 +8,19 @@
 
 # Postagens Recentes do Blog:
 
+<!--START_SECTION:blog_posts-->
 - **[Gerador de Currículos - HTML, CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/10/gerador-de-curriculos-html-css-e.html)**
-
-- **[Conversor PNG para WebP - HTML,  CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/10/conversor-png-para-webp-html-css-e.html)**
-
+- **[Conversor PNG para WebP - HTML, CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/10/conversor-png-para-webp-html-css-e.html)**
 - **[Solidity - A Linguagem por Trás dos Contratos Inteligentes](https://programartudo.blogspot.com/2024/10/solidity-linguagem-por-tras-dos.html)**
+<!--END_SECTION:blog_posts-->
 
-- **[Laravel - O Guia Completo para o Framework PHP Moderno](https://programartudo.blogspot.com/2024/10/laravel-o-guia-completo-para-o.html)**
+## Ferramentas e Tecnologias:
 
-- **[Teste de Visão Online - HTML, CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/09/teste-de-visao-online-html-css-e.html)**
-
- ## Ferramentas e Tecnologias:
-
- <a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/python-uma-linguagem-de-programacao.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/sql-manipulacao-e-gerenciamento-de-dados.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/typescript-guia-completo-para.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/09/github-o-que-e-como-funciona-e-como.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/introducao-ao-desenvolvimento-android.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/08/markdown-linguagem-essencial-para.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/canva-como-criar-designs-profissionais.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/></a>
-
-## Contatos:
-
-<a href="https://www.youtube.com/channel/UCvUtyzVxB5LcIPccivbS0pQ" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50" height="40" alt="YouTube"/></a> <a href="mailto:antonioninjaa75@gmail.com"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="40" alt="Gmail"/></a> <a href="https://programartudo.blogspot.com/" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/512px-Blogger.svg.png" width="50" height="40" alt="Blogger"/></a>
+<!--START_SECTION:technologies-->
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<!--END_SECTION:technologies-->
 
 ## Estatísticas e Contribuições
 
