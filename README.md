@@ -6,12 +6,9 @@
 
 ![octocat-1724086620589](https://github.com/user-attachments/assets/01ddd80e-2f91-4731-97d8-b4243ce8b656)
 
-# Postagens Recentes do Blog:
+# Blog Posts
 
 <!--START_SECTION:blog_posts-->
-- **[Gerador de Currículos - HTML, CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/10/gerador-de-curriculos-html-css-e.html)**
-- **[Conversor PNG para WebP - HTML, CSS e JavaScript - Tutorial](https://programartudo.blogspot.com/2024/10/conversor-png-para-webp-html-css-e.html)**
-- **[Solidity - A Linguagem por Trás dos Contratos Inteligentes](https://programartudo.blogspot.com/2024/10/solidity-linguagem-por-tras-dos.html)**
 <!--END_SECTION:blog_posts-->
 
 ## Ferramentas e Tecnologias:
