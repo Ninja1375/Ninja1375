@@ -6,7 +6,7 @@
 
 ![octocat-1724086620589](https://github.com/user-attachments/assets/01ddd80e-2f91-4731-97d8-b4243ce8b656)
 
-# Blog posts
+# Postagens Recentes do Blog
 <!-- BLOG-POST-LIST:START -->
 - [Como criar um README.md incrível para seu perfil no GitHub](https://programartudo.blogspot.com/2024/11/como-criar-um-readmemd-incrivel-para.html)
 - [Git, GitHub e GitLab: Diferenças Essenciais](https://programartudo.blogspot.com/2024/11/git-github-e-gitlab-diferencas.html)
