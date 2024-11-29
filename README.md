@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/github/followers/Ninja1375?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
 
-[![](https://visitcount.itsvg.in/api?id=Ninja1375&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![Contador de Visitas](https://visitcount.itsvg.in/api?id=Ninja1375&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## Ouvindo no Spotify
 
