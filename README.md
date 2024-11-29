@@ -25,15 +25,15 @@
 
 ## Estatísticas e Contribuições
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&langs_count=20&theme=dark" alt="Top Langs" width="800">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&langs_count=20&theme=darklangs_count=20https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&langs_count=20&theme=darktheme=darkhttps://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&langs_count=20&theme=darkhide_border=true" alt="Top Langs" width="800">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninja1375&theme=dark" alt="GitHub Stats" width="800">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninja1375http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninja1375&theme=darktheme=darkhttp://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninja1375&theme=darkhide_border=true" alt="GitHub Stats" width="800">
 
-<img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" width="800">
+<img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375https://streak-stats.demolab.com?user=Ninja1375&theme=neon-darktheme=neon-darkhttps://streak-stats.demolab.com?user=Ninja1375&theme=neon-darkhide_border=true" width="800">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninja1375&theme=dark" alt="Profile Details" width="800">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninja1375http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninja1375&theme=darktheme=darkhttp://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninja1375&theme=darkhide_border=true" alt="Profile Details" width="800">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ninja1375's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" width="800"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ninja1375's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=truebg_color=0c1014https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=truecolor=2aa889https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=trueline=599cabhttps://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=truepoint=99d1cehttps://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=truearea_color=2aa889https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=truearea=truehttps://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=truehide_border=truehttps://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=truetheme=dark" width="800"/></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ninja1375)](https://github.com/ryo-ma/github-profile-trophy)
 
