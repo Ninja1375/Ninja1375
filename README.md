@@ -8,11 +8,11 @@
 
 # Postagens Recentes do Blog
 <!-- BLOG-POST-LIST:START -->
+- [Rust: Segurança e Desempenho Elevadas](https://programartudo.blogspot.com/2024/12/rust-seguranca-e-desempenho-elevadas.html)
+- [Dart: A Linguagem por Trás do Sucesso do Flutter](https://programartudo.blogspot.com/2024/12/dart-linguagem-por-tras-do-sucesso-do.html)
 - [PowerShell: A Linguagem Definitiva para Automação](https://programartudo.blogspot.com/2024/12/powershell-linguagem-definitiva-para.html)
 - [Como criar um README.md incrível para seu perfil no GitHub](https://programartudo.blogspot.com/2024/11/como-criar-um-readmemd-incrivel-para.html)
 - [Git, GitHub e GitLab: Diferenças Essenciais](https://programartudo.blogspot.com/2024/11/git-github-e-gitlab-diferencas.html)
-- [Vue.js: Um Guia Completo para Iniciantes e Profissionais](https://programartudo.blogspot.com/2024/11/vuejs-um-guia-completo-para-iniciantes.html)
-- [Bash: A Linguagem de Script para o Linux e MacOS](https://programartudo.blogspot.com/2024/11/bash-linguagem-de-script-para-o-linux-e.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Ferramentas e Tecnologias:
