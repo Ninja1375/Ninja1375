@@ -29,7 +29,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninja1375&theme=dark" alt="GitHub Stats" width="800">
 
-<img alt="Ninja1375's GitHub Streak" src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" width="800">
+<img src="https://streak-stats.demolab.com?user=Ninja1375&theme=neon-dark" alt="Ninja1375's GitHub Streak" width="800">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninja1375&theme=dark" alt="Profile Details" width="800">
 
