@@ -48,7 +48,7 @@
 
 ## Ouvindo no Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317wb4f5julzmbk3t7t22bc5chcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]([https://open.spotify.com/user/317wb4f5julzmbk3t7t22bc5chcq](https://open.spotify.com/playlist/2idVCm9WX50irPcv5kvjc0?si=Vbjgd187SCm0Q7CexHpdpQ))
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317wb4f5julzmbk3t7t22bc5chcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/2idVCm9WX50irPcv5kvjc0?si=Vbjgd187SCm0Q7CexHpdpQ)
 
 ## Portfólio JavaScript
 
