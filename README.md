@@ -8,11 +8,11 @@
 
 # Postagens Recentes do Blog
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Feliz Natal Binário](https://programartudo.blogspot.com/2024/12/tutorial-feliz-natal-binario.html)
 - [Tutorial: Árvore de Natal com Luzes Piscando](https://programartudo.blogspot.com/2024/12/tutorial-arvore-de-natal-com-luzes.html)
 - [ColdFusion: Explorando uma Ferramenta Poderosa para Desenvolvimento Web](https://programartudo.blogspot.com/2024/12/coldfusion-explorando-uma-ferramenta.html)
 - [Testes de Performance das Soluções: Teste de Carga e Stress Test](https://programartudo.blogspot.com/2024/12/testes-de-performance-das-solucoes.html)
 - [Rust: Segurança e Desempenho Elevadas](https://programartudo.blogspot.com/2024/12/rust-seguranca-e-desempenho-elevadas.html)
-- [Dart: A Linguagem por Trás do Sucesso do Flutter](https://programartudo.blogspot.com/2024/12/dart-linguagem-por-tras-do-sucesso-do.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Ferramentas e Tecnologias:
