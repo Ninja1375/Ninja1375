@@ -8,11 +8,11 @@
 
 # Postagens Recentes do Blog
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Criando uma Contagem Regressiva para o Natal](https://programartudo.blogspot.com/2024/12/tutorial-criando-uma-contagem.html)
+- [Tutorial: Criando uma Árvore de Natal 3D com Three.js](https://programartudo.blogspot.com/2024/12/tutorial-criando-uma-arvore-de-natal-3d.html)
+- [Tutorial: Feliz Ano Novo 2025 - Criação de Animações com Canvas e Anime.js](https://programartudo.blogspot.com/2024/12/tutorial-feliz-ano-novo-2025-criacao-de.html)
 - [Tutorial: Como Criar um Cartão de Natal Animado com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2024/12/tutorial-como-criar-um-cartao-de-natal.html)
 - [Tutorial: Criando Árvore de Natal Animada com CSS](https://programartudo.blogspot.com/2024/12/tutorial-criando-arvore-de-natal.html)
-- [Tutorial: Criando um Efeito de Flocos de Neve com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2024/12/tutorial-criando-um-efeito-de-flocos-de.html)
-- [Tutorial: Como Criar uma Landing Page de Natal Responsiva](https://programartudo.blogspot.com/2024/12/tutorial-como-criar-uma-landing-page-de.html)
-- [Tutorial: Feliz Natal Binário](https://programartudo.blogspot.com/2024/12/tutorial-feliz-natal-binario.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Ferramentas e Tecnologias:
