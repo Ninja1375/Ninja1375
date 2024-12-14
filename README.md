@@ -8,11 +8,11 @@
 
 # Postagens Recentes do Blog
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Como Criar um Cartão de Natal Animado com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2024/12/tutorial-como-criar-um-cartao-de-natal.html)
 - [Tutorial: Criando Árvore de Natal Animada com CSS](https://programartudo.blogspot.com/2024/12/tutorial-criando-arvore-de-natal.html)
 - [Tutorial: Criando um Efeito de Flocos de Neve com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2024/12/tutorial-criando-um-efeito-de-flocos-de.html)
 - [Tutorial: Como Criar uma Landing Page de Natal Responsiva](https://programartudo.blogspot.com/2024/12/tutorial-como-criar-uma-landing-page-de.html)
 - [Tutorial: Feliz Natal Binário](https://programartudo.blogspot.com/2024/12/tutorial-feliz-natal-binario.html)
-- [Tutorial: Árvore de Natal com Luzes Piscando](https://programartudo.blogspot.com/2024/12/tutorial-arvore-de-natal-com-luzes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Ferramentas e Tecnologias:
