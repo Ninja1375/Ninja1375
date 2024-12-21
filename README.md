@@ -8,11 +8,11 @@
 
 # Postagens Recentes do Blog
 <!-- BLOG-POST-LIST:START -->
+- [npm: O Gerenciador de Pacotes do Node.js](https://programartudo.blogspot.com/2024/12/npm-o-gerenciador-de-pacotes-do-nodejs.html)
 - [Tutorial: Animação de Velas com HTML e CSS](https://programartudo.blogspot.com/2024/12/tutorial-animacao-de-velas-com-html-e.html)
 - [Tutorial: Ícones Natalinos com Font Awesome](https://programartudo.blogspot.com/2024/12/tutorial-icones-natalinos-com-font.html)
 - [Tutorial: Fogos de Artifício Animados para o Ano Novo](https://programartudo.blogspot.com/2024/12/tutorial-fogos-de-artificio-animados.html)
 - [Tutorial: Criando uma Contagem Regressiva para o Natal](https://programartudo.blogspot.com/2024/12/tutorial-criando-uma-contagem.html)
-- [Tutorial: Criando uma Árvore de Natal 3D com Three.js](https://programartudo.blogspot.com/2024/12/tutorial-criando-uma-arvore-de-natal-3d.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Ferramentas e Tecnologias:
