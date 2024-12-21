@@ -7,6 +7,7 @@
 ![octocat-1724086620589](https://github.com/user-attachments/assets/01ddd80e-2f91-4731-97d8-b4243ce8b656)
 
 # Postagens Recentes do Blog
+[![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
 - [Os Melhores Sites para Programar de Graça: Aprenda e Pratique Online](https://programartudo.blogspot.com/2024/12/os-melhores-sites-para-programar-de.html)
 - [Ferramentas DevOps: Otimizando o Ciclo de Desenvolvimento](https://programartudo.blogspot.com/2024/12/ferramentas-devops-otimizando-o-ciclo.html)
