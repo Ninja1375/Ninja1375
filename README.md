@@ -8,11 +8,11 @@
 
 # Postagens Recentes do Blog
 <!-- BLOG-POST-LIST:START -->
+- [Os Melhores Sites para Programar de Graça: Aprenda e Pratique Online](https://programartudo.blogspot.com/2024/12/os-melhores-sites-para-programar-de.html)
+- [Ferramentas DevOps: Otimizando o Ciclo de Desenvolvimento](https://programartudo.blogspot.com/2024/12/ferramentas-devops-otimizando-o-ciclo.html)
+- [Testes de Software: Entendendo TDD e BDD](https://programartudo.blogspot.com/2024/12/testes-de-software-entendendo-tdd-e-bdd.html)
+- [jQuery: Facilitando o Desenvolvimento Web com JavaScript](https://programartudo.blogspot.com/2024/12/jquery-facilitando-o-desenvolvimento.html)
 - [npm: O Gerenciador de Pacotes do Node.js](https://programartudo.blogspot.com/2024/12/npm-o-gerenciador-de-pacotes-do-nodejs.html)
-- [Tutorial: Animação de Velas com HTML e CSS](https://programartudo.blogspot.com/2024/12/tutorial-animacao-de-velas-com-html-e.html)
-- [Tutorial: Ícones Natalinos com Font Awesome](https://programartudo.blogspot.com/2024/12/tutorial-icones-natalinos-com-font.html)
-- [Tutorial: Fogos de Artifício Animados para o Ano Novo](https://programartudo.blogspot.com/2024/12/tutorial-fogos-de-artificio-animados.html)
-- [Tutorial: Criando uma Contagem Regressiva para o Natal](https://programartudo.blogspot.com/2024/12/tutorial-criando-uma-contagem.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Ferramentas e Tecnologias:
