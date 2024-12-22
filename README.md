@@ -9,11 +9,11 @@
 # Postagens Recentes do Blog
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Ballerina: A Linguagem Moderna para Integração e Desenvolvimento de APIs](https://programartudo.blogspot.com/2024/12/ballerina-linguagem-moderna-para.html)
 - [Os Melhores Sites para Programar de Graça: Aprenda e Pratique Online](https://programartudo.blogspot.com/2024/12/os-melhores-sites-para-programar-de.html)
 - [Ferramentas DevOps: Otimizando o Ciclo de Desenvolvimento](https://programartudo.blogspot.com/2024/12/ferramentas-devops-otimizando-o-ciclo.html)
 - [Testes de Software: Entendendo TDD e BDD](https://programartudo.blogspot.com/2024/12/testes-de-software-entendendo-tdd-e-bdd.html)
 - [jQuery: Facilitando o Desenvolvimento Web com JavaScript](https://programartudo.blogspot.com/2024/12/jquery-facilitando-o-desenvolvimento.html)
-- [npm: O Gerenciador de Pacotes do Node.js](https://programartudo.blogspot.com/2024/12/npm-o-gerenciador-de-pacotes-do-nodejs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Ferramentas e Tecnologias:
