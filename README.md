@@ -1,6 +1,6 @@
 **Olá, sou Antônio Nascimento!** 🇧🇷
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-orange?style=flat&logo=google-chrome)](https://ninja1375.github.io/Meu-Portfolio/)
+[![Portfólio](https://img.shields.io/badge/Meu-Portfólio-blue?style=flat&logo=google-chrome&logoWidth=100)](https://ninja1375.github.io/Meu-Portfolio/)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=D2183B&left=true&width=440&height=45&lines=Estou+interessado+em+mostrar...;Meus+conhecimentos+em+programação...;E+aprender+também." alt="Typing SVG" /></a>
 
