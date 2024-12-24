@@ -42,6 +42,9 @@
 
  <img src="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-snake-light.svg" width="800"/>
 
+<a href="https://ninja1375.github.io/Ninja1375/" target="_blank">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Ninja1375&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800" height="50%">
+</a>
 
 <a href="https://github.com/Ninja1375?tab=followers">
     <img src="https://img.shields.io/github/followers/Ninja1375?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
