@@ -38,7 +38,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ninja1375&layout=compact&langs_count=50&card_width=800&card_height=500&theme=dark" alt="Top Langs">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&langs_count=20&theme=dark" alt="Top Langs" width="800">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja1375&langs_count=10&theme=dark" alt="Top Langs" width="800">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninja1375&theme=dark" alt="GitHub Stats" width="800">
 
