@@ -85,7 +85,7 @@ const programador = {
         habilidadesList.appendChild(li);
     });
 ```
-<a href="https://twigl.app?ol=true&ss=-OEoJxceePZzZYptXh19"> <img src=".github/mg/Twigl.app.gif"> </a>
+<a href="https://twigl.app?ol=true&ss=-OEoJxceePZzZYptXh19"> <img src="Twigl.app.gif"> </a>
 
 https://user-images.githubusercontent.com/25702402/232766282-abdcb70b-bdfa-4a65-becb-f2239050ea25.mp4
 
