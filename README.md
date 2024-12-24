@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=2679E9&left=true&width=440&height=45&lines=Estou+interessado+em+mostrar...;Meus+conhecimentos+em+programação...;E+aprender+também." alt="Typing SVG" /></a>
 
-![Octocat-Ninja1385](.github/img/Octocat-Ninja1375.png)
+[![Octocat-Ninja1385](.github/img/Octocat-Ninja1375.png)](https://ninja1375.github.io/Ninja1375/)
 
 # Postagens Recentes do Blog
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
