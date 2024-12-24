@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=2679E9&left=true&width=440&height=45&lines=Estou+interessado+em+mostrar...;Meus+conhecimentos+em+programação...;E+aprender+também." alt="Typing SVG" /></a>
 
-[![Octocat-Ninja1385](.github/img/Octocat-Ninja1375.png)](https://ninja1375.github.io/Ninja1375/)
+![Octocat-Ninja1385](.github/img/Octocat-Ninja1375.png)
 
 # Postagens Recentes do Blog
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
@@ -48,7 +48,8 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ninja1375's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" width="800"/></a>
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Ninja1375&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800">
+<a href="https://ninja1375.github.io/Ninja1375/">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Ninja1375&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800"></a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Ninja1375&theme=dark_lover" alt="GitHub Trophy" style="width: 800px;">
