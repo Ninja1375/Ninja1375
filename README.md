@@ -9,11 +9,11 @@
 # Postagens Recentes do Blog
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Criando uma Calculadora de Ganhos do YouTube com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2024/12/tutorial-criando-uma-calculadora-de.html)
+- [Tutorial: Criando um Cubo 3D Interativo com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2024/12/tutorial-criando-um-cubo-3d-interativo.html)
+- [Tutorial: Criando uma Calculadora com Tema YouTube](https://programartudo.blogspot.com/2024/12/tutorial-criando-uma-calculadora-com.html)
 - [Ballerina: A Linguagem Moderna para Integração e Desenvolvimento de APIs](https://programartudo.blogspot.com/2024/12/ballerina-linguagem-moderna-para.html)
 - [Os Melhores Sites para Programar de Graça: Aprenda e Pratique Online](https://programartudo.blogspot.com/2024/12/os-melhores-sites-para-programar-de.html)
-- [Ferramentas DevOps: Otimizando o Ciclo de Desenvolvimento](https://programartudo.blogspot.com/2024/12/ferramentas-devops-otimizando-o-ciclo.html)
-- [Testes de Software: Entendendo TDD e BDD](https://programartudo.blogspot.com/2024/12/testes-de-software-entendendo-tdd-e-bdd.html)
-- [jQuery: Facilitando o Desenvolvimento Web com JavaScript](https://programartudo.blogspot.com/2024/12/jquery-facilitando-o-desenvolvimento.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Ferramentas e Tecnologias:
