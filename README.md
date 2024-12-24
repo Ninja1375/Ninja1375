@@ -40,7 +40,7 @@
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Ninja1375&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ninja1375&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ninja1375&theme=dark_lover&width=800)](https://github.com/ryo-ma/github-profile-trophy)
 
  <img src="https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-snake-light.svg" width="800"/>
 
