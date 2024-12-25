@@ -1,6 +1,5 @@
-<a id="topo"></a>
-
 **Olá, sou Antônio Nascimento!** 🇧🇷
+<a id="topo"></a>
 
 [![Portfólio](https://img.shields.io/badge/Meu-Portfólio-blue?style=flat&logo=google-chrome&logoWidth=125)](https://ninja1375.github.io/Meu-Portfolio/)
 
