@@ -56,6 +56,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ninja1375&theme=dark_lover" alt="GitHub Trophy" style="width: 800px;">
 </a>
 
+## 🐍 Jogo da Cobrinha
+
+![Snake animation](https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake.svg)
+
 <a href="https://github.com/Ninja1375?tab=followers">
     <img src="https://img.shields.io/github/followers/Ninja1375?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
