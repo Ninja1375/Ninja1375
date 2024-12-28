@@ -66,6 +66,10 @@
 
 [![Visitcount](https://visitcount.itsvg.in/api?id=Ninja1375&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
+## 🐍 Jogo da Cobrinha
+
+![Snake animation](https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake-dark.svg)
+
 ## Ouvindo no Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317wb4f5julzmbk3t7t22bc5chcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/2idVCm9WX50irPcv5kvjc0?si=Vbjgd187SCm0Q7CexHpdpQ)
