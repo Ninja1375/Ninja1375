@@ -9,7 +9,7 @@
 
 ![Octocat-Ninja1385](Octocat-Ninja1375.png)
 
-# Postagens Recentes do Blog
+# Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
 - [Brainfuck: Explorando a Linguagem de Programação Minimalista](https://programartudo.blogspot.com/2024/12/brainfuck-explorando-linguagem-de.html)
