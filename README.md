@@ -1,7 +1,7 @@
-**Olá, sou Antônio Nascimento!** 🇧🇷
-<a id="topo"></a>
+**Hello, I'm Antônio Nascimento! 🇧🇷**
+<a id="top"></a>
 
-[![Portfólio](https://img.shields.io/badge/Meu-Portfólio-blue?style=flat&logo=google-chrome&logoWidth=125)](https://ninja1375.github.io/Meu-Portfolio/)
+[![Portfólio](https://img.shields.io/badge/My-Portfolio-blue?style=flat&logo=google-chrome&logoWidth=125)](https://ninja1375.github.io/Meu-Portfolio/)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=2679E9&left=true&width=440&height=45&lines=Estou+interessado+em+mostrar...;Meus+conhecimentos+em+programação...;E+aprender+também." alt="Typing SVG" /></a>
 
@@ -95,4 +95,4 @@ const programador = {
 ## Apoie-me:
 <a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=seu_nome_de_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="120" height="120"></a>  <a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="120" height="120"></a>
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=blue&style=flat&logo" alt="voltar ao topo" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=blue&style=flat&logo" alt="voltar ao topo" /></a></p>
