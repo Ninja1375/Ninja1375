@@ -33,7 +33,7 @@
 <a href="https://programartudo.blogspot.com/2024/11/canva-como-criar-designs-profissionais.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/></a> 
 <a href="https://programartudo.blogspot.com/2024/08/o-que-e-yaml.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="40" height="40"/></a>
 
-## Contatos:
+## Contacts:
 
 <a href="https://www.youtube.com/channel/UCvUtyzVxB5LcIPccivbS0pQ" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50" height="40" alt="YouTube"/></a> <a href="mailto:antonioninjaa75@gmail.com"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="40" alt="Gmail"/></a> <a href="https://programartudo.blogspot.com/" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/512px-Blogger.svg.png" width="50" height="40" alt="Blogger"/></a>
 
