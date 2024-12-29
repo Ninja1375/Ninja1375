@@ -64,7 +64,7 @@
 
 [![Visitcount](https://visitcount.itsvg.in/api?id=Ninja1375&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-## 🐍 Jogo da Cobrinha
+## 🐍 Snake Game
 
 ![Snake animation](https://raw.githubusercontent.com/Ninja1375/Ninja1375/output/github-contribution-grid-snake.svg)
 
