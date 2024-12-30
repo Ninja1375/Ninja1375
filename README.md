@@ -51,7 +51,7 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ninja1375's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninja1375&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" width="800"/></a>
 
-<a href="https://ninja1375.github.io/Ninja1375/">
+<a href="https://ninja1375.github.io/ninja1375/">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Ninja1375&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800"></a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
