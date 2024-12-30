@@ -76,22 +76,22 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317wb4f5julzmbk3t7t22bc5chcq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/2idVCm9WX50irPcv5kvjc0?si=Vbjgd187SCm0Q7CexHpdpQ)
 
-## Portfólio JavaScript
+## JavaScript Portfolio
 
 ```JavaScript
-const programador = {
-        nome: "Antônio Nascimento",
-        idade: 39,
-        habilidades: ["HTML", "CSS", "JavaScript", "SQL", "Python"]
+const programmer = {
+        name: "Antônio Nascimento",
+        age: 39,
+        skills: ["HTML", "CSS", "JavaScript", "SQL", "Python"]
     };
-    document.getElementById('nome').textContent = programador.nome;
-    document.getElementById('idade').textContent = programador.idade;
+    document.getElementById('name').textContent = programmer.name;
+    document.getElementById('age').textContent = programmer.age;
 
-    const habilidadesList = document.getElementById('habilidades');
-    programador.habilidades.forEach(habilidade => {
+    const skillsList = document.getElementById('skills');
+    programmer.skills.forEach(skill => {
         const li = document.createElement('li');
-        li.textContent = habilidade;
-        habilidadesList.appendChild(li);
+        li.textContent = skill;
+        skillsList.appendChild(li);
     });
 ```
 <a href="https://twigl.app?ol=true&ss=-OEoJxceePZzZYptXh19"> <img src="Twigl.app.gif" width="800"> </a>
