@@ -12,11 +12,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Nota Virtual de 1 Real](https://programartudo.blogspot.com/2025/01/tutorial-nota-virtual-de-1-real.html)
+- [Tutorial: Criando um Gerador de Paleta de Cores com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/01/tutorial-criando-um-gerador-de-paleta.html)
+- [Tutorial: Criando um Gerador de Números da Lotofácil](https://programartudo.blogspot.com/2025/01/tutorial-criando-um-gerador-de-numeros.html)
 - [Tutorial: Criando um Simulador de Caixa Eletrônico com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/01/tutorial-criando-um-simulador-de-caixa.html)
 - [Tutorial: Criando um Sistema Solar Animado com HTML e CSS](https://programartudo.blogspot.com/2025/01/tutorial-criando-um-sistema-solar.html)
-- [Brainfuck: Explorando a Linguagem de Programação Minimalista](https://programartudo.blogspot.com/2024/12/brainfuck-explorando-linguagem-de.html)
-- [Tutorial: Criando uma Calculadora de Ganhos do YouTube com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2024/12/tutorial-criando-uma-calculadora-de.html)
-- [Tutorial: Criando um Cubo 3D Interativo com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2024/12/tutorial-criando-um-cubo-3d-interativo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
