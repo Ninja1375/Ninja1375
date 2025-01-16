@@ -12,11 +12,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Fortran: A Linguagem de Programação que Revolucionou a Ciência e a Engenharia](https://programartudo.blogspot.com/2025/01/fortran-linguagem-de-programacao-que.html)
+- [Short Code: A Primeira Linguagem de Programação de Alto Nível](https://programartudo.blogspot.com/2025/01/short-code-primeira-linguagem-de.html)
+- [Kotlin: A Linguagem Moderna para Desenvolvimento Android e Além](https://programartudo.blogspot.com/2025/01/kotlin-linguagem-moderna-para.html)
 - [Tutorial: Nota Virtual de 1 Real](https://programartudo.blogspot.com/2025/01/tutorial-nota-virtual-de-1-real.html)
 - [Tutorial: Criando um Gerador de Paleta de Cores com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/01/tutorial-criando-um-gerador-de-paleta.html)
-- [Tutorial: Criando um Gerador de Números da Lotofácil](https://programartudo.blogspot.com/2025/01/tutorial-criando-um-gerador-de-numeros.html)
-- [Tutorial: Criando um Simulador de Caixa Eletrônico com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/01/tutorial-criando-um-simulador-de-caixa.html)
-- [Tutorial: Criando um Sistema Solar Animado com HTML e CSS](https://programartudo.blogspot.com/2025/01/tutorial-criando-um-sistema-solar.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
