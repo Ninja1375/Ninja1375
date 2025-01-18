@@ -12,11 +12,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
-- [Fortran: A Linguagem de Programação que Revolucionou a Ciência e a Engenharia](https://programartudo.blogspot.com/2025/01/fortran-linguagem-de-programacao-que.html)
-- [Short Code: A Primeira Linguagem de Programação de Alto Nível](https://programartudo.blogspot.com/2025/01/short-code-primeira-linguagem-de.html)
-- [Kotlin: A Linguagem Moderna para Desenvolvimento Android e Além](https://programartudo.blogspot.com/2025/01/kotlin-linguagem-moderna-para.html)
-- [Tutorial: Nota Virtual de 1 Real](https://programartudo.blogspot.com/2025/01/tutorial-nota-virtual-de-1-real.html)
-- [Tutorial: Criando um Gerador de Paleta de Cores com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/01/tutorial-criando-um-gerador-de-paleta.html)
+- [Lisp: A Linguagem que Moldou a Programação Moderna](https://programartudo.blogspot.com/2025/01/lisp-linguagem-que-moldou-programacao.html)
+- [Smalltalk: Explorando os Fundamentos da Programação Orientada a Objetos](https://programartudo.blogspot.com/2025/01/smalltalk-explorando-os-fundamentos-da.html)
+- [COBOL: A Linguagem que Revolucionou os Sistemas Corporativos](https://programartudo.blogspot.com/2025/01/cobol-linguagem-que-revolucionou-os.html)
+- [BASIC: A Linguagem de Programação que Popularizou a Computação Pessoal](https://programartudo.blogspot.com/2025/01/basic-linguagem-de-programacao-que.html)
+- [ALGOL: A Linguagem que Revolucionou a Programação](https://programartudo.blogspot.com/2025/01/algol-linguagem-que-revolucionou.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
