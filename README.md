@@ -12,11 +12,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Quantas Linguagens de Programação Existem no Mundo?](https://programartudo.blogspot.com/2025/01/quantas-linguagens-de-programacao.html)
+- [Linguagens de Programação: Alto Nível vs. Baixo Nível](https://programartudo.blogspot.com/2025/01/linguagens-de-programacao-alto-nivel-vs.html)
+- [Ada Lovelace: A Primeira Programadora da História e sua Visão Revolucionária](https://programartudo.blogspot.com/2025/01/ada-lovelace-primeira-programadora-da.html)
+- [Visual Basic: Explorando a Simplicidade e Versatilidade da Linguagem](https://programartudo.blogspot.com/2025/01/visual-basic-explorando-simplicidade-e.html)
 - [Ada: A Linguagem de Programação Ideal para Sistemas Críticos](https://programartudo.blogspot.com/2025/01/ada-linguagem-de-programacao-ideal-para.html)
-- [Perl: A Linguagem Prática e Poderosa para Manipulação de Texto](https://programartudo.blogspot.com/2025/01/perl-linguagem-pratica-e-poderosa-para.html)
-- [Haskell: A Elegância da Programação Funcional](https://programartudo.blogspot.com/2025/01/haskell-elegancia-da-programacao.html)
-- [Groovy: Uma Linguagem Dinâmica para a JVM](https://programartudo.blogspot.com/2025/01/groovy-uma-linguagem-dinamica-para-jvm.html)
-- [Pascal: A Linguagem de Programação que Moldou Gerações de Programadores](https://programartudo.blogspot.com/2025/01/pascal-linguagem-de-programacao-que.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
