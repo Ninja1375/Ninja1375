@@ -12,11 +12,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
-- [Lisp: A Linguagem que Moldou a Programação Moderna](https://programartudo.blogspot.com/2025/01/lisp-linguagem-que-moldou-programacao.html)
-- [Smalltalk: Explorando os Fundamentos da Programação Orientada a Objetos](https://programartudo.blogspot.com/2025/01/smalltalk-explorando-os-fundamentos-da.html)
-- [COBOL: A Linguagem que Revolucionou os Sistemas Corporativos](https://programartudo.blogspot.com/2025/01/cobol-linguagem-que-revolucionou-os.html)
-- [BASIC: A Linguagem de Programação que Popularizou a Computação Pessoal](https://programartudo.blogspot.com/2025/01/basic-linguagem-de-programacao-que.html)
-- [ALGOL: A Linguagem que Revolucionou a Programação](https://programartudo.blogspot.com/2025/01/algol-linguagem-que-revolucionou.html)
+- [Ada: A Linguagem de Programação Ideal para Sistemas Críticos](https://programartudo.blogspot.com/2025/01/ada-linguagem-de-programacao-ideal-para.html)
+- [Perl: A Linguagem Prática e Poderosa para Manipulação de Texto](https://programartudo.blogspot.com/2025/01/perl-linguagem-pratica-e-poderosa-para.html)
+- [Haskell: A Elegância da Programação Funcional](https://programartudo.blogspot.com/2025/01/haskell-elegancia-da-programacao.html)
+- [Groovy: Uma Linguagem Dinâmica para a JVM](https://programartudo.blogspot.com/2025/01/groovy-uma-linguagem-dinamica-para-jvm.html)
+- [Pascal: A Linguagem de Programação que Moldou Gerações de Programadores](https://programartudo.blogspot.com/2025/01/pascal-linguagem-de-programacao-que.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
