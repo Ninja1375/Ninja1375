@@ -12,11 +12,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Full Stack: Um Guia Completo para Desenvolvedores](https://programartudo.blogspot.com/2025/01/full-stack-um-guia-completo-para.html)
+- [O Que é uma API? Guia Completo para Programadores](https://programartudo.blogspot.com/2025/01/o-que-e-uma-api-guia-completo-para.html)
 - [Quantas Linguagens de Programação Existem no Mundo?](https://programartudo.blogspot.com/2025/01/quantas-linguagens-de-programacao.html)
 - [Linguagens de Programação: Alto Nível vs. Baixo Nível](https://programartudo.blogspot.com/2025/01/linguagens-de-programacao-alto-nivel-vs.html)
 - [Ada Lovelace: A Primeira Programadora da História e sua Visão Revolucionária](https://programartudo.blogspot.com/2025/01/ada-lovelace-primeira-programadora-da.html)
-- [Visual Basic: Explorando a Simplicidade e Versatilidade da Linguagem](https://programartudo.blogspot.com/2025/01/visual-basic-explorando-simplicidade-e.html)
-- [Ada: A Linguagem de Programação Ideal para Sistemas Críticos](https://programartudo.blogspot.com/2025/01/ada-linguagem-de-programacao-ideal-para.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
