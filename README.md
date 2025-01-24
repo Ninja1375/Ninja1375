@@ -12,11 +12,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [TCL: A Linguagem de Programação Simples e Poderosa](https://programartudo.blogspot.com/2025/01/tcl-linguagem-de-programacao-simples-e.html)
+- [F#: Explorando a Linguagem Funcional para o Desenvolvimento Moderno](https://programartudo.blogspot.com/2025/01/f-explorando-linguagem-funcional-para-o.html)
+- [Arduino: Explorando o Universo da Programação e Eletrônica](https://programartudo.blogspot.com/2025/01/arduino-explorando-o-universo-da.html)
 - [Full Stack: Um Guia Completo para Desenvolvedores](https://programartudo.blogspot.com/2025/01/full-stack-um-guia-completo-para.html)
 - [O Que é uma API? Guia Completo para Programadores](https://programartudo.blogspot.com/2025/01/o-que-e-uma-api-guia-completo-para.html)
-- [Quantas Linguagens de Programação Existem no Mundo?](https://programartudo.blogspot.com/2025/01/quantas-linguagens-de-programacao.html)
-- [Linguagens de Programação: Alto Nível vs. Baixo Nível](https://programartudo.blogspot.com/2025/01/linguagens-de-programacao-alto-nivel-vs.html)
-- [Ada Lovelace: A Primeira Programadora da História e sua Visão Revolucionária](https://programartudo.blogspot.com/2025/01/ada-lovelace-primeira-programadora-da.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
