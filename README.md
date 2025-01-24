@@ -12,11 +12,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Matlab: Uma Visão Geral da Linguagem e Suas Aplicações](https://programartudo.blogspot.com/2025/01/matlab-uma-visao-geral-da-linguagem-e.html)
+- [O Que São Bugs em Programação e Como Lidar com Eles](https://programartudo.blogspot.com/2025/01/o-que-sao-bugs-em-programacao-e-como.html)
 - [TCL: A Linguagem de Programação Simples e Poderosa](https://programartudo.blogspot.com/2025/01/tcl-linguagem-de-programacao-simples-e.html)
 - [F#: Explorando a Linguagem Funcional para o Desenvolvimento Moderno](https://programartudo.blogspot.com/2025/01/f-explorando-linguagem-funcional-para-o.html)
 - [Arduino: Explorando o Universo da Programação e Eletrônica](https://programartudo.blogspot.com/2025/01/arduino-explorando-o-universo-da.html)
-- [Full Stack: Um Guia Completo para Desenvolvedores](https://programartudo.blogspot.com/2025/01/full-stack-um-guia-completo-para.html)
-- [O Que é uma API? Guia Completo para Programadores](https://programartudo.blogspot.com/2025/01/o-que-e-uma-api-guia-completo-para.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
