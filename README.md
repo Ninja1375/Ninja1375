@@ -12,11 +12,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Julia: A Linguagem de Alta Performance para Ciência de Dados, Machine Learning e Computação Científica](https://programartudo.blogspot.com/2025/01/julia-linguagem-de-alta-performance.html)
+- [Explorando CoffeeScript: Uma Alternativa Elegante ao JavaScript](https://programartudo.blogspot.com/2025/01/explorando-coffeescript-uma-alternativa.html)
+- [Delphi: Uma Linguagem de Programação Versátil e Poderosa](https://programartudo.blogspot.com/2025/01/delphi-uma-linguagem-de-programacao.html)
 - [Matlab: Uma Visão Geral da Linguagem e Suas Aplicações](https://programartudo.blogspot.com/2025/01/matlab-uma-visao-geral-da-linguagem-e.html)
 - [O Que São Bugs em Programação e Como Lidar com Eles](https://programartudo.blogspot.com/2025/01/o-que-sao-bugs-em-programacao-e-como.html)
-- [TCL: A Linguagem de Programação Simples e Poderosa](https://programartudo.blogspot.com/2025/01/tcl-linguagem-de-programacao-simples-e.html)
-- [F#: Explorando a Linguagem Funcional para o Desenvolvimento Moderno](https://programartudo.blogspot.com/2025/01/f-explorando-linguagem-funcional-para-o.html)
-- [Arduino: Explorando o Universo da Programação e Eletrônica](https://programartudo.blogspot.com/2025/01/arduino-explorando-o-universo-da.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
