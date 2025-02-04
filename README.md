@@ -94,13 +94,12 @@ const programmer = {
         skillsList.appendChild(li);
     });
 ```
-<a href="https://twigl.app?ol=true&ss=-OEoJxceePZzZYptXh19"> <img src="Twigl.app.gif" width="800"> </a>
 
 ## 🎵 Favorite Song  
 [![Be Together - Wild Belle](https://img.youtube.com/vi/GZSsOEqgm0c/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZSsOEqgm0c)  
 
-
-<video src="https://github.com/user-attachments/assets/21145f59-0637-4660-9639-8d59af963408" controls width="400"></video>
+## 📺 Série Favorita  
+[![Supernatural](https://img.youtube.com/vi/apltEQy8RzQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=apltEQy8RzQ)
 
 ## Support Me
 
