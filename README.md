@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/github/followers/Ninja1375?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
 
-[![Visitcount](https://visitcount.itsvg.in/api?id=Ninja1375&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![Visitcount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ninja1375/Ninja1375&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
 
 ## 🐍 Snake Game
 
