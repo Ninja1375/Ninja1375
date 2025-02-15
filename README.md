@@ -98,7 +98,7 @@ const programmer = {
 ## 🎵 Favorite Song  
 [![Be Together - Wild Belle](https://img.youtube.com/vi/GZSsOEqgm0c/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZSsOEqgm0c)  
 
-## 📺 Série Favorita  
+## 📺 Favorite Series  
 [![Supernatural](https://img.youtube.com/vi/apltEQy8RzQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=apltEQy8RzQ)
 
 ## Support Me
