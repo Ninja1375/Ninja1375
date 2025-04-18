@@ -12,11 +12,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Como Baixar e Instalar o Docker no Windows, macOS, Linux e Android](https://programartudo.blogspot.com/2025/04/como-baixar-e-instalar-o-docker-no.html)
 - [Tutorial: Criando um Conversor de Moedas com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/04/tutorial-criando-conversor-de-moedas.html)
 - [Tutorial: Criando um Jogo da Velha Inteligente com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/04/tutorial-criando-um-jogo-da-velha.html)
 - [Tutorial: Criando uma Calculadora de Média Escolar com Estilo Dark Neon](https://programartudo.blogspot.com/2025/04/tutorial-criando-uma-calculadora-de.html)
 - [KitDevs: O Melhor Conjunto de Ferramentas Online para Programadores e Webmasters](https://programartudo.blogspot.com/2025/03/kitdevs-o-melhor-conjunto-de.html)
-- [Metadados: O Guia Completo para SEO, Redes Sociais e Desenvolvimento Web](https://programartudo.blogspot.com/2025/02/metadados-o-guia-completo-para-seo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
