@@ -12,11 +12,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Criando um Site com Informações de Todos os Países Usando HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/04/tutorial-criando-um-site-com.html)
+- [Código de Máquina: A Linguagem Verdadeira dos Computadores](https://programartudo.blogspot.com/2025/04/codigo-de-maquina-linguagem-verdadeira.html)
 - [Como criar seu primeiro container com Docker](https://programartudo.blogspot.com/2025/04/como-criar-seu-primeiro-container-com.html)
 - [Docker vs VirtualBox: qual a diferença?](https://programartudo.blogspot.com/2025/04/docker-vs-virtualbox-qual-diferenca.html)
 - [Como Baixar e Instalar o Docker no Windows, macOS, Linux e Android](https://programartudo.blogspot.com/2025/04/como-baixar-e-instalar-o-docker-no.html)
-- [Tutorial: Criando um Conversor de Moedas com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/04/tutorial-criando-conversor-de-moedas.html)
-- [Tutorial: Criando um Jogo da Velha Inteligente com HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/04/tutorial-criando-um-jogo-da-velha.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
