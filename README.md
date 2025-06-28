@@ -9,6 +9,10 @@
 
 ![Octocat-Ninja1385](Octocat-Ninja1375.png)
 
+## free online tools for developers
+
+<a href="https://kitdevs.com" target="_blank"><img loading="lazy" src="https://kitdevs.com/assets/img/kitdevs-logo.png" width="200" height="200"/></a>
+
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
