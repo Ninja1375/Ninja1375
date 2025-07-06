@@ -16,11 +16,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Plaintext: O Que É e Por Que Todo Programador Deve Entender](https://programartudo.blogspot.com/2025/07/plaintext-o-que-e-e-por-que-todo.html)
+- [Tudo sobre PyTorch: O Coração por Trás do ChatGPT, DALL·E e BERT](https://programartudo.blogspot.com/2025/07/tudo-sobre-pytorch-o-coracao-por-tras.html)
 - [Tutorial: Criando um Site com Informações de Todos os Países Usando HTML, CSS e JavaScript](https://programartudo.blogspot.com/2025/04/tutorial-criando-um-site-com.html)
 - [Código de Máquina: A Linguagem Verdadeira dos Computadores](https://programartudo.blogspot.com/2025/04/codigo-de-maquina-linguagem-verdadeira.html)
 - [Como criar seu primeiro container com Docker](https://programartudo.blogspot.com/2025/04/como-criar-seu-primeiro-container-com.html)
-- [Docker vs VirtualBox: qual a diferença?](https://programartudo.blogspot.com/2025/04/docker-vs-virtualbox-qual-diferenca.html)
-- [Como Baixar e Instalar o Docker no Windows, macOS, Linux e Android](https://programartudo.blogspot.com/2025/04/como-baixar-e-instalar-o-docker-no.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
