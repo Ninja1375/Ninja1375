@@ -99,7 +99,9 @@ const programmer = {
     });
 ```
 
-## 🎵 Favorite Song  
+## 🎵 Favorite Songs
+[![O Algoritmo do Amor](https://img.youtube.com/vi/KjpwoVPlWxI/maxresdefault.jpg)](https://www.youtube.com/watch?v=KjpwoVPlWxI)
+
 [![Be Together - Wild Belle](https://img.youtube.com/vi/GZSsOEqgm0c/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZSsOEqgm0c)  
 
 ## 📺 Favorite Series  
