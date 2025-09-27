@@ -66,7 +66,9 @@
     <img src="https://img.shields.io/github/followers/Ninja1375?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
 
-![Visitcount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ninja1375/Ninja1375&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitcount&edge_flat=false)
+<!-- Inicia codigo Contador -->
+<div align="left"><a title='Contador de Visitas do MegaContador' href='https://megacontador.com.br/' ><img src='https://megacontador.com.br/img-VriehLGCyHWVe50R-9.gif' border='0' alt='Contador de visitas'></a></div>
+<!-- Fim do codigo Contador -->
 
 ## 🐍 Snake Game
 
