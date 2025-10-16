@@ -102,7 +102,7 @@ const programmer = {
 ```
 
 ## 🎵 Favorite Songs
-[![O Algoritmo do Amor](https://img.youtube.com/vi/KjpwoVPlWxI/maxresdefault.jpg)](https://www.youtube.com/watch?v=KjpwoVPlWxI)
+[![O Algoritmo do Amor - Dominic (VídeoClipe)](https://img.youtube.com/vi/iCPSS31du8w/maxresdefault.jpg)](https://www.youtube.com/watch?v=iCPSS31du8w)
 
 [![Be Together - Wild Belle](https://img.youtube.com/vi/GZSsOEqgm0c/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZSsOEqgm0c)  
 
