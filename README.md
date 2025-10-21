@@ -1,8 +1,6 @@
 **Hello, I'm Antônio Nascimento 🇧🇷**
 <a id="top"></a>
 
-[![Portfolio](https://img.shields.io/badge/My-Portfolio-blue?style=flat&logo=google-chrome&logoWidth=125)](https://portfolio-antonio-nascimento.netlify.app/)
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=2679E9&left=true&width=440&height=45&lines=I+am+interested+in+showing...;My+programming+knowledge...;And+learning+too." alt="Typing SVG" />
 </a>
@@ -39,7 +37,7 @@
 
 ## Contacts
 
-<a href="https://www.youtube.com/channel/UCvUtyzVxB5LcIPccivbS0pQ" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50" height="40" alt="YouTube"/></a> <a href="mailto:antonioninjaa75@gmail.com"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="40" alt="Gmail"/></a> <a href="https://programartudo.blogspot.com/" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/512px-Blogger.svg.png" width="50" height="40" alt="Blogger"/></a>
+<a href="mailto:antonioninjaa75@gmail.com"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="40" alt="Gmail"/></a>
 
 ## Stats and Contributions
 
