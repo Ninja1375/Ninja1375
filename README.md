@@ -35,10 +35,6 @@
 <a href="https://programartudo.blogspot.com/2024/11/canva-como-criar-designs-profissionais.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/></a> 
 <a href="https://programartudo.blogspot.com/2024/08/o-que-e-yaml.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="40" height="40"/></a>
 
-## Contacts
-
-<a href="mailto:antonioninjaa75@gmail.com"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="40" alt="Gmail"/></a>
-
 ## Stats and Contributions
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ninja1375&layout=compact&langs_count=50&card_width=800&card_height=500&theme=dark" alt="Top Langs">
