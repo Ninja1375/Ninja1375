@@ -81,7 +81,7 @@
 ```JavaScript
 const programmer = {
         name: "Antônio Nascimento",
-        age: 39,
+        age: 40,
         skills: ["HTML", "CSS", "JavaScript", "SQL", "Python"]
     };
     document.getElementById('name').textContent = programmer.name;
@@ -96,8 +96,6 @@ const programmer = {
 ```
 
 ## 🎵 Favorite Songs
-[![O Algoritmo do Amor - Dominic (VídeoClipe)](https://img.youtube.com/vi/iCPSS31du8w/maxresdefault.jpg)](https://www.youtube.com/watch?v=iCPSS31du8w)
-
 [![Be Together - Wild Belle](https://img.youtube.com/vi/GZSsOEqgm0c/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZSsOEqgm0c)  
 
 ## 📺 Favorite Series  
