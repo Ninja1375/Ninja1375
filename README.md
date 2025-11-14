@@ -14,11 +14,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [O que é TensorFlow? Guia Completo para Iniciantes](https://programartudo.blogspot.com/2025/11/o-que-e-tensorflow-guia-completo-para.html)
+- [Q#: A Linguagem da Microsoft para Computação Quântica](https://programartudo.blogspot.com/2025/11/q-linguagem-da-microsoft-para.html)
+- [Forth: A Linguagem Minimalista que Desafia a Lógica Tradicional](https://programartudo.blogspot.com/2025/11/forth-linguagem-minimalista-que-desafia.html)
+- [Whitespace: A Linguagem de Programação Invisível que Desafia a Sintaxe](https://programartudo.blogspot.com/2025/11/whitespace-linguagem-de-programacao.html)
 - [Kanban Board: Guia Completo Para Programadores](https://programartudo.blogspot.com/2025/07/kanban-board-guia-completo-para.html)
-- [Back-end: Como Começar na Programação do Lado do Servidor](https://programartudo.blogspot.com/2025/07/back-end-como-comecar-na-programacao-do.html)
-- [Front-end: A Arte de Criar Experiências Incríveis na Web](https://programartudo.blogspot.com/2025/07/front-end-arte-de-criar-experiencias.html)
-- [Plaintext: O Que É e Por Que Todo Programador Deve Entender](https://programartudo.blogspot.com/2025/07/plaintext-o-que-e-e-por-que-todo.html)
-- [Tudo sobre PyTorch: O Coração por Trás do ChatGPT, DALL·E e BERT](https://programartudo.blogspot.com/2025/07/tudo-sobre-pytorch-o-coracao-por-tras.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
