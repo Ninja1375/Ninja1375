@@ -14,11 +14,11 @@
 # Recent Blog Posts
 [![Latest blog post workflow](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Ninja1375/Ninja1375/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Visual Studio Code: O Guia Definitivo Para Programadores &lpar;2025&rpar;](https://programartudo.blogspot.com/2025/11/visual-studio-code-o-guia-definitivo.html)
+- [Django: O Guia Completo Para Iniciar No Framework Mais Poderoso do Python](https://programartudo.blogspot.com/2025/11/django-o-guia-completo-para-iniciar-no.html)
+- [React: O Guia Completo Para Iniciantes e Desenvolvedores Modernos](https://programartudo.blogspot.com/2025/11/react-o-guia-completo-para-iniciantes-e.html)
 - [O que é TensorFlow? Guia Completo para Iniciantes](https://programartudo.blogspot.com/2025/11/o-que-e-tensorflow-guia-completo-para.html)
 - [Q#: A Linguagem da Microsoft para Computação Quântica](https://programartudo.blogspot.com/2025/11/q-linguagem-da-microsoft-para.html)
-- [Forth: A Linguagem Minimalista que Desafia a Lógica Tradicional](https://programartudo.blogspot.com/2025/11/forth-linguagem-minimalista-que-desafia.html)
-- [Whitespace: A Linguagem de Programação Invisível que Desafia a Sintaxe](https://programartudo.blogspot.com/2025/11/whitespace-linguagem-de-programacao.html)
-- [Kanban Board: Guia Completo Para Programadores](https://programartudo.blogspot.com/2025/07/kanban-board-guia-completo-para.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Technologies
