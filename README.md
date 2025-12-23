@@ -98,6 +98,8 @@ const programmer = {
 ## 🎵 Favorite Songs
 [![Be Together - Wild Belle](https://img.youtube.com/vi/GZSsOEqgm0c/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZSsOEqgm0c)  
 
+[![Rastafari Light - Melô de Rastafari 2026](https://img.youtube.com/vi/hvsHmZ9zE64/maxresdefault.jpg)](https://www.youtube.com/watch?v=hvsHmZ9zE64)
+
 ## 📺 Favorite Series  
 [![Supernatural](https://img.youtube.com/vi/apltEQy8RzQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=apltEQy8RzQ)
 
