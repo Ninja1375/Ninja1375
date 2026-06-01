@@ -52,10 +52,6 @@
 <a href="https://ninja1375.github.io/Ninja1375/">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Ninja1375&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="800"></a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ninja1375&theme=dark_lover" alt="GitHub Trophy" style="width: 800px;">
-</a>
-
 <a href="https://github.com/Ninja1375?tab=followers">
     <img src="https://img.shields.io/github/followers/Ninja1375?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
